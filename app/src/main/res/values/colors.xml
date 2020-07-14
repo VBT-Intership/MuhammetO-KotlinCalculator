@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDarkBackground">#17181A</color>
+    <color name="colorDarkContainer">#323334</color>
+    <color name="colorDarkDeleteContainer">#2D191E</color>
+    <color name="colorDarkDeleteText">#F6444E</color>
+    <color name="colorDarkOperationContainer">#FF9500</color>
+    <color name="colorDarkEqualContainer">#2EC973</color>
+    <color name="colorDarkText">#FFFFFF</color>
+    <color name="colorDarkText50Opacity">#50FFFFFF</color>
+</resources>
